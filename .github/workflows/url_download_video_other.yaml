@@ -1,4 +1,4 @@
-name: dowloadyp
+name: dowload video other
 
 on:
   workflow_dispatch:
